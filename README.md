@@ -1,4 +1,4 @@
-# Landpage INstagram
+# Landpage Instagram
 Praticados no BootCamp HTML Web Developer
 
 > Status do Projeto: Concluido :heavy_check_mark:
